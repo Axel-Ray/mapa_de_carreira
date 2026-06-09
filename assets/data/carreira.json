@@ -1,0 +1,124 @@
+{
+  "seo": {
+    "title": "Axel Ray Azevedo | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Axel Ray Azevedo, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Axel Ray Azevedo",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Axel Ray Azevedo",
+    "headline": "Estudante de Programação e Desenvolvimento Web",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Axel Ray Azevedo",
+    "summary": "Atualmente, faço parte do Instituto PROA, onde desenvolvo minhas habilidades em Desenvolvimento Web e Back-end. Tenho interesse em compreender a lógica por trás do código para criar aplicações eficientes e escaláveis. Também me identifico com as áreas de Banco de Dados e Análise de Dados, buscando transformar informações em soluções e insights relevantes. Sou uma pessoa analítica, resiliente e comprometida com o aprendizado contínuo e a evolução profissional.",
+    "cvUrl": "assets/data/carreira.json"
+  },
+  "contacts": [
+    {
+      "label": "axelraysilvadeazevedo@gmail.com",
+      "url": "mailto:axelraysilvadeazevedo@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/axelrayazevedo",
+      "url": "https://www.linkedin.com/in/axelrayazevedo/"
+    },
+    {
+      "label": "github.com/Axel-Ray",
+      "url": "https://github.com/Axel-Ray"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Estágio em programação",
+      "description": "Busco construir uma base sólida em desenvolvimento de software, somando com proatividade no dia a dia do time e dedicação constante ao aprendizado de novas ferramentas.",
+      "softSkills": [
+        "Comunicação Estratégica.",
+        "Pensamento crítico.",
+        "Autonomia.",
+        "Resiliência na resolução de problemas."
+      ],
+      "roadmap": [
+        "Lógica de Programação",
+        "Estrutura de Dados",
+        "Git e GitHub"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Júnior",
+      "description": "Busco o aprendizado contínuo de novas tecnologias e invisto no aprimoramento do inglês para atender às demandas do mercado global.",
+      "softSkills": [
+        "Aprendizado contínuo.",
+        "Curiosidade.",
+        "Pensamento crítico."
+      ],
+      "roadmap": [
+        "Lógica de Programação",
+        "Java Web",
+        "Python"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Pleno",
+      "description": "Como Desenvolvedor Pleno, meu objetivo é aplicar meus conhecimentos em desenvolvimento Web e Back-end para construir sistemas eficientes. Atuando com autonomia na resolução de problemas complexos e na entrega de código de qualidade, sempre prezando pela colaboração técnica com o time e pela comunicação fluida em ambientes multiculturais através do inglês avançado.",
+      "softSkills": [
+        "Comunicação Assertiva.",
+        "Pensamento Crítico.",
+        "Responsabilidade.",
+        "Colaboração."
+      ],
+      "roadmap": [
+        "Inglês Avançado",
+        "Lógica de Programação",
+        "Python",
+        "Java Web"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 65
+        },
+        {
+          "name": "React",
+          "level": 50
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Lógica de Programação",
+          "level": 80
+        },
+        {
+          "name": "Python",
+          "level": 75
+        },
+        {
+          "name": "Banco de Dados",
+          "level": 70
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Figma",
+    "Canva",
+    "GitHub"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Espanhol",
+      "level": "Básico"
+    }
+  ]
+}
